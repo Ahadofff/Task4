@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+header{
+    width: 1838px;
+    height: 61px;
+    color: white;
+    font-family: 'Lobster', cursive;
+    background-color: #109e97;
+    text-align: center;
+    font-size: 49px;
+    padding: 61px;
+    border-bottom: black solid;
+}
+.ilkdiv{
+    height: 780px;
+    display: flex;
+    margin-top: 102px;
+    margin-left: 370px;
+}
+.sekil1{
+    width: 300px;
+    height: 450px;
+}
+.metnsag{
+    font-size: 26px;
+    margin-left: 82px;
+}
+.David{
+    padding-bottom: 80px;
+}
+.yasil{
+    color: green;
+    font-size: 25px;
+}
+.qirmizi{
+    color: red;
+    font-size: 16px;
+}
+.qisa{
+    width: 712px;
+}
+.cap{
+    font-size: 20px;
+    padding-left: 834px;
+}
+table{
+    width: 1022px;
+    height: 132px;
+    margin-left: 370px;
+}
+td{
+    border-top: solid 1px;
+}
+.son{
+    background-color: #109e97;
+    width: 100%;
+    height: 61px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    border-top: solid black;
+}
